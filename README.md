@@ -59,7 +59,7 @@
 ## Education
 
 - 📖 **Ph.D. student**\
-  📆 2022 - current\
+  📆 2022 - 2025\
   📍 **University of Salerno** - Salerno, Italy
 - 📖 **Master's Degree**\
   📆 2020 - 2022\

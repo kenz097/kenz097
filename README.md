@@ -1,72 +1,47 @@
-<h1 align='center'>
-  Hi there 👋 I'm Vincenzo 🌐💻
-</h1>
+<div align="center">
+  <h1>Hi, I'm Vincenzo 👋</h1>
+  <p><strong>Vincenzo De Martino, Ph.D.</strong><br>
+  Postdoctoral Researcher & Co-Lecturer at <a href="https://www.upc.edu/en">UPC-BarcelonaTech</a><br>
+  GESSI Research Group · Barcelona, Spain</p>
 
-<p align='center'>
-  I'm a Ph.D. Student in Computer Science
+  <p>Empirical Software Engineering · Software Quality · SE4AI & AI4SE · Sustainable AI</p>
+
+  <p>
+    <a href="https://kenz097.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=XNgzY0IAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/vincenzo-de-martino-21a2a4195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:vincenzo.de.martino@upc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white"></a>
+  </p>
+</div>
+
+About me
+I'm a postdoctoral researcher in the Software and Service Engineering Group (GESSI) at the Universitat Politècnica de Catalunya (UPC). I received my Ph.D. in Computer Science from the University of Salerno in 2025.
+
+My research focuses on the development, maintenance, and empirical evaluation of software systems, particularly those involving machine learning and large language models. I'm interested in understanding how software quality, effectiveness, and resource consumption interact, and in building tools that help researchers and developers evaluate these trade-offs.
+Research interests
+- Software Engineering for AI (SE4AI): quality, maintenance, technical debt, and evolution of ML-enabled systems.
+- AI for Software Engineering (AI4SE): LLM-based tools, prompt engineering, and multi-agent workflows for software engineering tasks.
+- Green & Sustainable AI: energy consumption, computational costs, and sustainability trade-offs.
+- Empirical Software Engineering: reproducible experimentation, repository mining, and software quality evaluation.
+Tools & languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
 </p>
 
-<p align='center'>
-  <a href='https://www.linkedin.com/in/vincenzo-de-martino-21a2a4195/' target="_blank">
-    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />
-  </a>&nbsp;&nbsp;
-  <a href='https://www.instagram.com/vincenzo97dm/' target="_blank">
-    <img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' />        
-  </a>&nbsp;&nbsp;
-</p>
+Academic background
+- 2025–present — Postdoctoral Researcher & Co-Lecturer, UPC-BarcelonaTech, Spain.
+- 2022–2025 — Ph.D. in Computer Science (European Doctorate), University of Salerno, Italy.
+- 2020–2022 — M.Sc. in Computer Science, University of Salerno, Italy.
+- 2016–2020 — B.Sc. in Computer Science, University of Salerno, Italy.
+<details>
+  <summary>GitHub activity</summary>
+  <p align="center">
+    <img alt="GitHub activity for kenz097" src="https://github-readme-stats.vercel.app/api?username=kenz097&show_icons=true&hide_border=true&theme=transparent">
+  </p>
+</details>
 
-<!-- Github Stats -->
-<br>
-
-<p align='center'>
-  I love to use:<br/><br/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-
-###
-<table border="none">
-<td width="50%" display="inline" border="none">
- <div align="left" width="50%" display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenz097&layout=compact&theme=darcula&hide=HTML&show_icons=true" alt="Languages of Vincenzo" /> 
-    </div>
-</td>
-    <td border="none">
-        <div align="left" width="25%">
-            <img src="https://github-readme-stats.vercel.app/api?username=kenz097&hide=issues&theme=darcula&show_icons=true" alt="Activities of Vincenzo"/>
-     </div>
-    </td>
-    </table>
-<p align = "center">
-  <img src = "https://komarev.com/ghpvc/?username=kenz097&color=green">
-</p>
-    <!--
-**kenz097/VincenzoDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- RESUME -->
-
-<h1></h1>
-
-<details open>
-  <summary>📃 Resume</summary>
-
-## Education
-
-- 📖 **Ph.D. student**\
-  📆 2022 - 2025\
-  📍 **University of Salerno** - Salerno, Italy
-- 📖 **Master's Degree**\
-  📆 2020 - 2022\
-  📍 **University of Salerno** - Salerno, Italy
-- 📖 **Bachelor Degree**\
-  📆 2016 - 2020\
-  📍 **University of Salerno** - Salerno, Italy
-- 📖 **Internship**\
-  📆 02/2020 - 06/2020\
-  📍 NexSoft S.P.A.
+<p align="center">Interested in research collaborations or student projects? <a href="mailto:vincenzo.de.martino@upc.edu">Get in touch</a>.</p>
